@@ -22,4 +22,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: ghcr.io/dante-alpha-assistant/pingboard:latest
+          tags: ghcr.io/dante-alpha-assistant/agent-pingboard:latest
